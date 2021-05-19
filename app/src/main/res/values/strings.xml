@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn Kotlin</string>
+    <string name="happyBirthday">Happy Birthday, Kotlin!</string>
+    <string name="signature">From Himesh</string>
+    <string name="birthdayButton">Open Birthday Screen</string>
+    <string name="diceButton">Open Dice Screen</string>
+</resources>
