@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LearnKotlin">
-        <activity android:name=".DiceScreen"></activity>
+        <activity android:name=".DiceScreen"/>
         <activity android:name=".BirthdayScreen" />
         <activity android:name=".MainActivity">
             <intent-filter>

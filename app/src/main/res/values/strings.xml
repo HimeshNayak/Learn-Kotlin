@@ -5,4 +5,7 @@
     <string name="birthdayButton">Open Birthday Screen</string>
     <string name="diceButton">Open Dice Screen</string>
     <string name="roll">Roll Dice</string>
+    <string name="initDiceResult">Roll Dice to win or lose!!!</string>
+    <string name="winDiceResult">Congrats!, You Win</string>
+    <string name="loseDiceResult">Sorry!, Better Luck Next Time</string>
 </resources>
