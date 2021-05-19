@@ -19,5 +19,15 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, BirthdayScreen::class.java)
             startActivity(intent)
         }
+
+        val openDiceButton : Button = findViewById(R.id.diceButton)
+        openDiceButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Dice Page", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, DiceScreen::class.java)
+            startActivity(intent)
+        }
+
     }
 }

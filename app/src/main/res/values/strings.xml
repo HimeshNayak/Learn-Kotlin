@@ -4,4 +4,5 @@
     <string name="signature">From Himesh</string>
     <string name="birthdayButton">Open Birthday Screen</string>
     <string name="diceButton">Open Dice Screen</string>
+    <string name="roll">Roll Dice</string>
 </resources>
