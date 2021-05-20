@@ -29,5 +29,14 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        val openTipButton : Button = findViewById(R.id.tipButton)
+        openTipButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Tip Calculate Page", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, TipCalculate::class.java)
+            startActivity(intent)
+        }
+
     }
 }
