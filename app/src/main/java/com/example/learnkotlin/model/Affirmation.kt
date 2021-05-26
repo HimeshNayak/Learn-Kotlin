@@ -1,5 +1,8 @@
 package com.example.learnkotlin.model
 
-data class Affirmation (val StringResourceId: Int) {
+import androidx.annotation.DrawableRes
+import androidx.annotation.StringRes
+
+data class Affirmation (@StringRes val StringResourceId: Int, @DrawableRes val ImageResourceId: Int) {
 
 }
