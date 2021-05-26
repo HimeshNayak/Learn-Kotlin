@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LearnKotlin">
-        <activity android:name=".TipCalculate"></activity>
+        <activity android:name=".AffirmationsScreen"></activity>
+        <activity android:name=".TipCalculate" />
         <activity android:name=".DiceScreen" />
         <activity android:name=".BirthdayScreen" />
         <activity android:name=".MainActivity">
