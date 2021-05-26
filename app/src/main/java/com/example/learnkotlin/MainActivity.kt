@@ -39,5 +39,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.affirmationsButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Affirmations Screen", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, AffirmationsScreen::class.java)
+            startActivity(intent)
+        }
+
     }
 }
