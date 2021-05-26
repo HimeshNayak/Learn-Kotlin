@@ -1,13 +1,16 @@
 <resources>
     <string name="app_name">Learn Kotlin</string>
+
     <string name="happyBirthday">Happy Birthday, Kotlin!</string>
     <string name="signature">From Himesh</string>
     <string name="birthdayButton">Open Birthday Screen</string>
+
     <string name="diceButton">Open Dice Screen</string>
     <string name="roll">Roll Dice</string>
     <string name="initDiceResult">Roll Dice to win or lose!!!</string>
     <string name="winDiceResult">Congrats!, You Win</string>
     <string name="loseDiceResult">Sorry!, Better Luck Next Time</string>
+
     <string name="tipButton">Open Tip Calculate App</string>
     <string name="cost_of_service">Cost of Service</string>
     <string name="how_was_the_service">How was the service?</string>
@@ -17,4 +20,16 @@
     <string name="round_up_tip">Round up tip?</string>
     <string name="calculate">Calculate</string>
     <string name="tip_amount">Tip Amount: %s</string>
+
+    <string name="affirmations">Affirmations</string>
+    <string name="affirmation1">I am strong.</string>
+    <string name="affirmation2">I believe in myself.</string>
+    <string name="affirmation3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="affirmation4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="affirmation5">I have so much to be grateful for.</string>
+    <string name="affirmation6">Good things are always coming into my life.</string>
+    <string name="affirmation7">New opportunities await me at every turn.</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
 </resources>
