@@ -47,5 +47,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.wordGameButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Word Game Screen", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, WordGameScreen::class.java)
+            startActivity(intent)
+        }
+
     }
 }
