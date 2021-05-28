@@ -69,7 +69,7 @@ class LetterAdapter :
         holder.button.setOnClickListener {
             val context = holder.view.context
             val intent = Intent(context, WordDetailScreen::class.java)
-            intent.putExtra("letter", holder.button.text.toString())
+            intent.putExtra(WordDetailScreen.LETTER, holder.button.text.toString())
             context.startActivity(intent)
         }
 
