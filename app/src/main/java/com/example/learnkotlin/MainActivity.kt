@@ -55,5 +55,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.dessertClickerButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Dessert Clicker Screen", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, DessertClickerScreen::class.java)
+            startActivity(intent)
+        }
+
     }
 }

@@ -65,7 +65,7 @@ class DessertClickerScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_dessert_clicker_screen)
 
-        binding = DataBindingUtil.setContentView(this, R.layout.activity_main)
+        binding = DataBindingUtil.setContentView(this, R.layout.activity_dessert_clicker_screen)
 
         binding.dessertButton.setOnClickListener {
             onDessertClicked()
