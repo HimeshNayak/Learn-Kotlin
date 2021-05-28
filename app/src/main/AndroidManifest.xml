@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LearnKotlin">
-        <activity android:name=".WordDetailScreen"></activity>
+        <activity android:name=".DessertClickerScreen"></activity>
+        <activity android:name=".WordDetailScreen" />
         <activity android:name=".WordGameScreen" />
         <activity android:name=".AffirmationsScreen" />
         <activity android:name=".TipCalculate" />
