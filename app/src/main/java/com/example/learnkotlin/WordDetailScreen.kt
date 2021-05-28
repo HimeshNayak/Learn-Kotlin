@@ -28,7 +28,7 @@ class WordDetailScreen : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         val binding = ActivityWordDetailScreenBinding.inflate(layoutInflater)
-        setContentView(R.layout.activity_word_detail_screen)
+        setContentView(binding.root)
         // Retrieve a binding object that allows you to refer to views by id name
         // Names are converted from snake case to camel case.
         // For example, a View with the id word_one is referenced as binding.wordOne
@@ -36,7 +36,7 @@ class WordDetailScreen : AppCompatActivity() {
         // Retrieve the LETTER from the Intent extras
         // intent.extras.getString returns String? (String or null)
         // so toString() guarantees that the value will be a String
-        val letterId = "A"
+        val letterId = intent?.extras?.getString("letter").toString()
 
         val recyclerView = binding.recyclerView
         recyclerView.layoutManager = LinearLayoutManager(this)
