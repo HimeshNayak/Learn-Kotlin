@@ -18,6 +18,7 @@ package com.example.learnkotlin
 
 import android.content.ActivityNotFoundException
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Toast
@@ -27,6 +28,8 @@ import androidx.databinding.DataBindingUtil
 import com.example.learnkotlin.databinding.ActivityDessertClickerScreenBinding
 
 class DessertClickerScreen : AppCompatActivity() {
+
+    private val _TAG = "DessertClickerScreen";
 
     private var revenue = 0
     private var dessertsSold = 0
@@ -63,6 +66,9 @@ class DessertClickerScreen : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        Log.d(_TAG, "onCreate method started for dessertClickerScreen");
+
         setContentView(R.layout.activity_dessert_clicker_screen)
 
         binding = DataBindingUtil.setContentView(this, R.layout.activity_dessert_clicker_screen)
@@ -145,6 +151,31 @@ class DessertClickerScreen : AppCompatActivity() {
             R.id.shareMenuButton -> onShare()
         }
         return super.onOptionsItemSelected(item)
+    }
+
+    override fun onResume() {
+        super.onResume()
+        Log.d(_TAG, "onResume Called")
+    }
+
+    override fun onPause() {
+        super.onPause()
+        Log.d(_TAG, "onPause Called")
+    }
+
+    override fun onStop() {
+        super.onStop()
+        Log.d(_TAG, "onStop Called")
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        Log.d(_TAG, "onDestroy Called")
+    }
+
+    override fun onRestart() {
+        super.onRestart()
+        Log.d(_TAG, "onRestart Called")
     }
 
 }
