@@ -38,12 +38,14 @@
     <string name="action_switch_layout">Switch Layout</string>
     <string name="look_up_word">Look up word in a Browser Search</string>
     <string name="look_up_words">Show Stored Words</string>
+    <string name="word_list_fragment_label">Words That Start With {letter}</string>
 
     <string name="dessertClicker">Dessert Clicker</string>
     <string name="dessert_sold">Desserts Sold</string>
     <string name="share_text">I\'ve clicked %1$d Desserts for a total of %2$d$ #AndroidDessertClicker</string>
     <string name="share">Share</string>
     <string name="sharing_not_available">Sharing Not Available</string>
+
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
