@@ -25,7 +25,7 @@ import android.widget.Button
 import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
 import com.example.learnkotlin.R
-import com.example.learnkotlin.WordDetailScreen
+import com.example.learnkotlin.WordListFragment
 
 /**
  * Adapter for the [RecyclerView] in [MainActivity].
@@ -68,8 +68,8 @@ class LetterAdapter :
 
         holder.button.setOnClickListener {
             val context = holder.view.context
-            val intent = Intent(context, WordDetailScreen::class.java)
-            intent.putExtra(WordDetailScreen.LETTER, holder.button.text.toString())
+            val intent = Intent(context, WordListFragment::class.java)
+            intent.putExtra(WordListFragment.LETTER, holder.button.text.toString())
             context.startActivity(intent)
         }
 

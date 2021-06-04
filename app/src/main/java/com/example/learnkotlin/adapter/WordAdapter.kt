@@ -28,7 +28,7 @@ import android.widget.Button
 import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
 import com.example.learnkotlin.R
-import com.example.learnkotlin.WordDetailScreen
+import com.example.learnkotlin.WordListFragment
 
 /**
  * Adapter for the [RecyclerView] in [DetailActivity].
@@ -88,13 +88,13 @@ class WordAdapter(private val letterId: String, context: Context) :
         holder.button.text = item
 
         holder.button.setOnClickListener {
-            val queryUrl: Uri = Uri.parse("${WordDetailScreen.SEARCH_PREFIX}${item}")
+            val queryUrl: Uri = Uri.parse("${WordListFragment.SEARCH_PREFIX}${item}")
             val intent = Intent(Intent.ACTION_VIEW, queryUrl)
             context.startActivity(intent)
         }
 
     }
-    // Setup custom accessibility delegate to set the text read with
+    // Setup custom accessibility delegate to set the text read withFw
     // an accessibility service
     companion object Accessibility : View.AccessibilityDelegate() {
         @RequiresApi(Build.VERSION_CODES.LOLLIPOP)
