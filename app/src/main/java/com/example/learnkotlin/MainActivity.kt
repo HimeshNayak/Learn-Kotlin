@@ -63,5 +63,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.unscrambleButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Unscramble Screen", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, UnscrambleActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 }
