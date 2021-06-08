@@ -61,4 +61,6 @@
     <string name="exit">Exit</string>
     <string name="play_again">Play Again</string>
     <string name="try_again">Try again!</string>
+
+    <string name="mars">Mars Photos</string>
 </resources>

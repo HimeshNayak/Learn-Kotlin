@@ -71,5 +71,13 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.marsScreenButton.setOnClickListener {
+            val toast: Toast = Toast.makeText(this, "Going to Mars Screen", Toast.LENGTH_SHORT)
+            toast.show()
+
+            val intent = Intent(this, MarsActivity::class.java)
+            startActivity(intent)
+        }
+
     }
 }

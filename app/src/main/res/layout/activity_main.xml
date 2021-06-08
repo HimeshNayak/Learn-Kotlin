@@ -71,6 +71,13 @@
                 android:layout_marginTop="40dp"
                 android:text="@string/unscramble" />
 
+            <Button
+                android:id="@+id/marsScreenButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:text="@string/mars" />
+
         </LinearLayout>
     </ScrollView>
 
