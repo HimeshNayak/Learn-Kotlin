@@ -1,7 +1,8 @@
-#LearnKotlin App 
+# LearnKotlin App 
 
-##About the app
-The app is a compilation of the apps in the Kotlin Basics Pathway (Unit 1 - 4). The different activities contain the following apps:
+## About the app
+The app is a compilation of the apps in the [Android Basics Kotlin Pathway (Unit 1 - 4)](https://developer.android.com/courses/pathways/android-basics-kotlin-one). 
+The different activities contain the following apps:
 - Birthday Card App
 - Dice Game App
 - Tip Calculator App
@@ -16,7 +17,6 @@ The app is a compilation of the apps in the Kotlin Basics Pathway (Unit 1 - 4). 
 ![Tip App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/tipApp.png)
 ![Affirmations App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/affirmations.png)
 ![Word App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/wordApp.png)
-![Birthday App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png)
 ![DessertClicker App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/cupcake.png)
 ![Unscramble App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/unscramble.png)
 ![Mars Photos App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/marsPhotos.png)
