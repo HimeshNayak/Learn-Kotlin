@@ -13,7 +13,7 @@ The different activities contain the following apps:
 - Mars Photos App
 
 <p float = "left">
-<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="drawing" style="width:200px;margin-right:50px;"/>
 <img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/dice.png" alt="drawing" style="width:200px;margin:50px;"/>
 <img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/tipApp.png" alt="drawing" style="width:200px;margin:50px;"/>
 <img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/affirmations.png" alt="drawing" style="width:200px;margin:50px;"/>
