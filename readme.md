@@ -12,7 +12,7 @@ The different activities contain the following apps:
 - Unscramble Game App
 - Mars Photos App
 
-<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="drawing" style="width:200px;margin:50px;"/>
 
 ![Birthday App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png)
 ![Dice App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/dice.png)
