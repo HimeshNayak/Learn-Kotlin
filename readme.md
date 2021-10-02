@@ -9,6 +9,9 @@ The different activities contain the following apps:
     <tr>
       <th>Name of the app</th>
       <th>Screenshot</th>
+      <th>Name of the app</th>
+      <th>Screenshot</th>    
+      
     </tr>
   </thead>
   <tbody>
