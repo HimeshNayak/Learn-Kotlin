@@ -13,12 +13,19 @@ The different activities contain the following apps:
 - Mars Photos App
 
 <img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/dice.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/tipApp.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/affirmations.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/wordApp.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/cupcake.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/unscramble.png" alt="drawing" style="width:200px;margin:50px;"/>
+<img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/marsPhotos.png" alt="drawing" style="width:200px;margin:50px;"/>
 
-![Birthday App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png)
+<!-- ![Birthday App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png)
 ![Dice App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/dice.png)
 ![Tip App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/tipApp.png)
 ![Affirmations App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/affirmations.png)
 ![Word App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/wordApp.png)
 ![DessertClicker App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/cupcake.png)
 ![Unscramble App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/unscramble.png)
-![Mars Photos App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/marsPhotos.png)
+![Mars Photos App](https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/marsPhotos.png) -->
