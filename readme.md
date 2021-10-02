@@ -14,35 +14,35 @@ The different activities contain the following apps:
   <tbody>
     <tr>
       <td> <strong>Birthday Card App</strong></td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/birthday.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
     <tr>
       <td> <strong>Dice Game App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/dice.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/dice.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
     <tr>
       <td> <strong>Tip Calculator App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/tipApp.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/tipApp.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
     <tr>
       <td> <strong>Affirmations App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/affirmations.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/affirmations.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
     <tr>
       <td> <strong>Word Game App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/wordApp.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/wordApp.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
     <tr>
       <td> <strong>Dessert Clicker App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/cupcake.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/cupcake.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
         <tr>
       <td> <strong>Unscramble Game App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/unscramble.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/unscramble.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
         <tr>
       <td> <strong>Mars Photos App</strong> </td>
-      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/marsPhotos.png" alt="birthday" /></td>
+      <td><img src="https://github.com/HimeshNayak/Learn-Kotlin/blob/master/screenshots/marsPhotos.png" alt="birthday" style="width:200px;padding-right:50px;"/></td>
     </tr>
   </tbody>
 </table>
